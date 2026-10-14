@@ -1,5 +1,6 @@
 # Weather Wizard App
-This app opens the computer camera and changes the weather based on what hand gesture is read with computer vision.
+This app opens the computer camera and changes the weather based on a single hand gesture by using computer vision.  
+**When the camera opens, change the weather by pointing up one finger, two fingers, or three fingers on one hand!**
 
 ## Tutorial
 
