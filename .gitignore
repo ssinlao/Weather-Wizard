@@ -1,0 +1,4 @@
+.venv
+notes.md
+__pycache__
+weather_wizard.egg-info/
