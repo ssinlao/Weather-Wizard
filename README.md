@@ -7,7 +7,7 @@ To make this project actually work, I migrated to the new MediaPipe version and 
 <https://developers.google.com/edge/mediapipe/solutions/guide>
 
 Tutorial Video:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_aPM2zzQWmE?si=W3SPik_i6jDc92wd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Build an AMAZING Computer Vision Project in 11 Minutes!](https://youtu.be/_aPM2zzQWmE?si=fK3HphRmSSFDqTLd)](https://youtu.be/_aPM2zzQWmE?si=fK3HphRmSSFDqTLd)
 
 Note: The video tutorial I followed is a bit outdated so it took me a lot more than 11 minutes.
 
